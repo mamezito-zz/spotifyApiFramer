@@ -45,7 +45,9 @@ http://share.framerjs.com/fl0ajjn4tyt4/
 
 
 advanced  sample - spotify player on android
+
 ![spotify framer player](https://github.com/mamezito/spotifyApiFramer/blob/master/spotifyPlaylist.gif)
+
 http://share.framerjs.com/3yjdfuufi56q/
 
 
