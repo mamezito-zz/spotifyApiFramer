@@ -7,6 +7,9 @@ Framer.Info =
 	author: "Sergey Voronov"
 	twitter: "mamezito"
 
+#thanx to George Kedenburg III for most of the spotify code from this sample
+# http://share.framerjs.com/ed24br2i5unz/
+
 #module
 spotify = require "spotify"
 
