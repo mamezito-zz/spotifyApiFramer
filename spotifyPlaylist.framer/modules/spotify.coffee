@@ -1,7 +1,3 @@
-# Add the following line to your project in Framer Studio.
-# myModule = require "myModule"
-# Reference the contents by name, like myModule.myFunction() or myModule.myVar
-
 
 #spotify API
 # this finds our albums
@@ -17,14 +13,7 @@ exports.searchAlbums = (query) ->
 			return
 		response = JSON.parse(r.responseText)
 		exports.albums = response.albums
-		# albumCover=firstMatch.images[0].url
-		# albumName=firstMatch.name
-		# exports.album=[name:albumName,cover:albumCover, albumID:firstMatch.id]
-		#
-		# if firstMatch
-		# 	fetchTracks(firstMatch.id)
 
-	# print expalbum
 	r.send()
 
 
